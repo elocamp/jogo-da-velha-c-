@@ -1,0 +1,15 @@
+/home/elocamp/Projects/JogoDaVelha/bin/Debug/net6.0/JogoDaVelha
+/home/elocamp/Projects/JogoDaVelha/bin/Debug/net6.0/JogoDaVelha.deps.json
+/home/elocamp/Projects/JogoDaVelha/bin/Debug/net6.0/JogoDaVelha.runtimeconfig.json
+/home/elocamp/Projects/JogoDaVelha/bin/Debug/net6.0/JogoDaVelha.dll
+/home/elocamp/Projects/JogoDaVelha/bin/Debug/net6.0/ref/JogoDaVelha.dll
+/home/elocamp/Projects/JogoDaVelha/bin/Debug/net6.0/JogoDaVelha.pdb
+/home/elocamp/Projects/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.csproj.AssemblyReference.cache
+/home/elocamp/Projects/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+/home/elocamp/Projects/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.AssemblyInfoInputs.cache
+/home/elocamp/Projects/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.AssemblyInfo.cs
+/home/elocamp/Projects/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.csproj.CoreCompileInputs.cache
+/home/elocamp/Projects/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.dll
+/home/elocamp/Projects/JogoDaVelha/obj/Debug/net6.0/ref/JogoDaVelha.dll
+/home/elocamp/Projects/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.pdb
+/home/elocamp/Projects/JogoDaVelha/obj/Debug/net6.0/JogoDaVelha.genruntimeconfig.cache
